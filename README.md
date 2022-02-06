@@ -1,18 +1,87 @@
 <html>
-<head> <title> </title>
-<table border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f3971b"   >
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#03EE5C"   >
 <tr>
-	<td>
+<td>
 <table border="0 " width="85%" cellpadding="15" cellspacing="0" align="center">
-	<tr>
-	<td> Group 14 </td>
-	<td width="30%">&nbsp;</td>
-	<td> <a href=" ">Home</a></td>
-	<td> <a href=" ">Home</a></td>
-	<td> <a href=" ">Home</a></td>
-	<td> <a href=" ">Home</a></td>
-	</tr>
-	</table>
-	</td>
+<tr>
+<td>
+<font face="serif" color="#050000" size="6">
+Group 14 
+</font> 
+</td>
+<td width="30%">&nbsp;</td>
+<td> <font face="arial" color="#0E6500" size="3">
+Heart Shanley <br> Sasota
+</font> </a> </td>
+<td> <font face="arial" color="#0E6500" size="3">
+Margarette Antonette <br> Mahusay
+</font> </a> </td>
+<td> <font face="arial" color="#0E6500" size="3">
+Justine <br> Caytona
+</font> </a></td>
+<td> <font face="arial" color="#0E6500" size="3">
+Alfred <br> Rosales
+<font> </a></td>
+<td> <font face="arial" color="#0E6500" size="3">
+Justin <br> Ricablanca
+<font> </a> </td> 
+</tr> </table>
+</td>
 </tr>
-</table> 
+</table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#444444">
+<tr> <td> 
+<table border="0" width="85%" cellpadding="15" cellspacing="15" align="center">
+<tr> <td align="center" valign="middle" height="300"> 
+<h3> <marquee behavior="alternate" direction="left" scrollamount="2"> 
+<font face="arial" color="#ffffff" size="5">
+Hello! This is Group 14's Performance Tasks
+</marquee> </font> </h3>
+<h1> <marquee behavior="alternate" direction="right" scrollamount="2">  
+<font face="arial" color="#03EE5C" size="7">
+Subjects: CAE, MATH, and CLE 
+</marquee> </font> </h1>
+</td> </tr> <table> </td> </tr> </table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+<tr> <td> 
+<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+<tr> <td height="160" align="center" valign="middle" colspan="3">
+<font fance="arial" size="6" color="#03EE5C"> Subjects </font>
+<hr width="70" color="#03EE5C"> </tr> </td>
+
+<td width="33.33%" valign="top">
+<table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
+<tr> <td> 
+<font face="arial" size="5" color="#ffffff">
+CAE </font> 
+<br> <br>
+<a href="cle.html"> <font face="arial" size="4" color="#03EE5C"> 
+Performace Task </font> <br> 
+<img src="272707694_501322211468497_1420374266756956512_n.jpg">
+</td> </tr> </table> </td>
+
+<td width="33.33%" valign="top">
+<table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
+<tr> <td> 
+<font face="arial" size="5" color="#ffffff">
+MATH </font> 
+<br> <br>
+<a href="math.html"> <font face="arial" size="4" color="#03EE5C"> 
+Performance Task </font> <br>
+<img src="248372588_522143939141545_5071346728851375454_n.jpg">
+</td> </tr> </table> </td>
+
+<td width="33.33%" valign="top">
+<table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
+<tr> <td> 
+<font face="arial" size="5" color="#ffffff">
+CLE </font> 
+<br> <br>
+<a href="cle.html"> <font face="arial" size="4" color="#03EE5C"> 
+Performance Task </font> <br>
+<img src="273056303_982262985830883_984729281290429281_n.jpg">
+</td> </tr> </table> </td>
+
+	</html>
