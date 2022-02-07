@@ -12,19 +12,19 @@ Group 14
 <td width="30%">&nbsp;</td>
 <td> <font face="arial" color="#0E6500" size="3">
 Heart Shanley <br> Sasota
-</font> </a> </td>
+</font> </td>
 <td> <font face="arial" color="#0E6500" size="3">
 Margarette Antonette <br> Mahusay
-</font> </a> </td>
+</font> </td>
 <td> <font face="arial" color="#0E6500" size="3">
 Justine <br> Caytona
-</font> </a></td>
+</font> </td>
 <td> <font face="arial" color="#0E6500" size="3">
 Alfred <br> Rosales
-<font> </a></td>
+<font> </td>
 <td> <font face="arial" color="#0E6500" size="3">
 Justin <br> Ricablanca
-<font> </a> </td> 
+<font> </td> 
 </tr> </table>
 </td>
 </tr>
