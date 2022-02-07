@@ -55,30 +55,29 @@ Subjects: CAE, MATH, and CLE
 <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
 <tr> <td> 
 <font face="arial" size="5" color="#ffffff">
-CAE </font> 
+<center> CAE </font> 
 <br> <br>
-<a href="cle.html"> <font face="arial" size="4" color="#03EE5C"> 
-Performace Task </font> <br> 
+<a href="https://ptincae.herokuapp.com/"> <font face="arial" size="4" color="#03EE5C"> 
+Click here to access the PT </center> </font> <br> 
 </td> </tr> </table> </td>
 
 <td width="33.33%" valign="top">
 <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
 <tr> <td> 
 <font face="arial" size="5" color="#ffffff">
-MATH </font> 
+<center> MATH </font> 
 <br> <br>
-<a href="math.html"> <font face="arial" size="4" color="#03EE5C"> 
-Performance Task </font> <br>
+<a href="https://ptinmath.herokuapp.com/"> <font face="arial" size="4" color="#03EE5C"> 
+Click here to access the PT </center> </font> <br>
 </td> </tr> </table> </td>
 
 <td width="33.33%" valign="top">
 <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
 <tr> <td> 
 <font face="arial" size="5" color="#ffffff">
-CLE </font> 
+<center> CLE </font> 
 <br> <br>
-<a href="cle.html"> <font face="arial" size="4" color="#03EE5C"> 
-Performance Task </font> <br>
+<a href="https://ptincle.herokuapp.com/"> <font face="arial" size="4" color="#03EE5C"> 
+Click here to access the PT </center> </font> <br> 
 </td> </tr> </table> </td>
-
 	</html>
