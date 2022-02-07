@@ -59,7 +59,6 @@ CAE </font>
 <br> <br>
 <a href="cle.html"> <font face="arial" size="4" color="#03EE5C"> 
 Performace Task </font> <br> 
-<img src="272707694_501322211468497_1420374266756956512_n.jpg">
 </td> </tr> </table> </td>
 
 <td width="33.33%" valign="top">
@@ -70,7 +69,6 @@ MATH </font>
 <br> <br>
 <a href="math.html"> <font face="arial" size="4" color="#03EE5C"> 
 Performance Task </font> <br>
-<img src="248372588_522143939141545_5071346728851375454_n.jpg">
 </td> </tr> </table> </td>
 
 <td width="33.33%" valign="top">
@@ -81,7 +79,6 @@ CLE </font>
 <br> <br>
 <a href="cle.html"> <font face="arial" size="4" color="#03EE5C"> 
 Performance Task </font> <br>
-<img src="273056303_982262985830883_984729281290429281_n.jpg">
 </td> </tr> </table> </td>
 
 	</html>
